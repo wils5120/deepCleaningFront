@@ -12,6 +12,8 @@ import { MenuComponent } from './menu/menu.component';
 import { FooterComponent } from './footer/footer.component';
 import { MapComponent } from './map/map.component';
 import { SocialComponent } from './social/social.component';
+import { HomeComponent } from './home/home/home.component';
+import { ContactUsComponent } from './contact/contact-us/contact-us.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +26,9 @@ import { SocialComponent } from './social/social.component';
     MenuComponent,
     FooterComponent,
     MapComponent,
-    SocialComponent
+    SocialComponent,
+    HomeComponent,
+    ContactUsComponent
   ],
   imports: [
     BrowserModule,
