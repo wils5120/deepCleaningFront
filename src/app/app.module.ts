@@ -14,6 +14,8 @@ import { MapComponent } from './map/map.component';
 import { SocialComponent } from './social/social.component';
 import { HomeComponent } from './home/home/home.component';
 import { ContactUsComponent } from './contact/contact-us/contact-us.component';
+import { ValuesComponent } from './about/values/values.component';
+import { AboutComponent } from './about/about.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +30,9 @@ import { ContactUsComponent } from './contact/contact-us/contact-us.component';
     MapComponent,
     SocialComponent,
     HomeComponent,
-    ContactUsComponent
+    ContactUsComponent,
+    ValuesComponent,
+    AboutComponent
   ],
   imports: [
     BrowserModule,
