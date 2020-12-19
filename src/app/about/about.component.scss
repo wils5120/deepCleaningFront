@@ -14,27 +14,34 @@
 }
 .padre2{
     display: flex;
-.p1{
-    margin: 300px 20px;
-    margin-left: 70px;
-    padding: 30px;
-    width: 450px;
-    text-align: justify;
 }
 .p2{
     margin: 20px;
-    margin-left: 220px;
+    margin-left: 280px;
     width: 450px;
     text-align: justify;
-   
 }
+img{
+    margin-left: 70px;
 }
+.p1{
+    width: 450px;
+    margin-top: 50px;
+    margin-left: 70px;
+    text-align: justify;
+}
+.padre3{
+    display: flex;
+}
+
+
 .title3{
     margin-left: 370px;
+    margin-top: 25px;
 }
 .p3{
     width: 450px;
     margin-left: 750px;
-    margin-top: 100px;
+    margin-top: 80px;
     text-align: justify;
 }
