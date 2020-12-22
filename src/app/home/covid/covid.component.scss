@@ -1,11 +1,21 @@
 
-.cuerpo1{
+.cuerpo{
     display: flex;
 }
-.img{
-    margin: 100px;
-}
+
 h1{
     color: #7ea04d;
+    font-size: 80px;
 }
-
+.img1{
+    margin-left: 100px;
+    margin-top: 25px;
+}
+p{
+    margin-top: 70px;
+    margin-bottom: 1rem;
+    margin-left: 100px;
+    text-align: justify;
+    width: 450px;
+    
+}
